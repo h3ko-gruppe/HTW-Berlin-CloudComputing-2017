@@ -41,6 +41,7 @@ Bonus-Aufgabe:
 ## Abgabe 2:
 
 ![One does not simply run Node.js on Microsoft Azure](https://i.imgflip.com/alvg4.jpg "One does not simply run Node.js on Microsoft Azure")  
+
 Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Platform as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus:    
 
 1. Erstellen Sie ein neues, öffentlich erreichbares Github Quell-Code-Repository bei [github.com](https://github.com/)  
@@ -58,7 +59,7 @@ Bonus-Aufgaben:
 
 ## Abgabe 3:
 
-![A 128GB RAM Linux VM in less than 5 minutes - Yes! Azure Can!](https://cdn.meme.am/instances/51302052.jpg "A 128GB RAM Linux VM in less than 5 minutes - Yes! Azure Can!")  
+![I heared you like virtual machines...](http://s2.quickmeme.com/img/6f/6feb53f242d27cf7fc1747e366fe7125c4c18d8d277edf988cd85a901f386924.jpg "I heared you like virtual machines...")  
 Ihre Aufgabe besteht darin, die [HelloCloud.js](https://github.com/rherlt/HTW-Berlin-CloudComputing-2017/blob/master/HelloCloud.js) NodeJs-Anwendung in Microsoft Azure in Form von Infrastructure as a Service auszuführen. Um diese Aufgabe zu bewerkstelligen, führen Sie folgende Teilaufgaben aus: 
 
 1. Schauen Sie sich die Auswahl der Vituellen Maschienen an  
